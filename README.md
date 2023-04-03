@@ -12,6 +12,8 @@ Add
 
 ```yml
     flutter_ion:
+        git: 
+            url: https://github.com/ixabhay/flutter-ion
 ```
 
 ## Platform Support
