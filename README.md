@@ -11,7 +11,9 @@ Edit `pubspec.yaml` in your flutter projects.
 Add
 
 ```yml
-    flutter_ion:
+flutter_ion:
+        git: 
+            url: https://github.com/ixabhay/flutter-ion
 ```
 
 ## Platform Support
