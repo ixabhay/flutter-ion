@@ -1,7 +1,8 @@
 # Flutter sdk for ion
 
 This is a copy of flutter_ion 0.5.4 version and not the latest one.
-This is meant to work on ios devices with ion sfu 1.10.6.
+This is meant to work on ios devices with ion sfu 1.10.6. and also fix the bluetooth audio routing in Android Devices. 
+This repository was created because the latest flutter_ion is not compatible with iOS and Android since it was using an older version of WebRTC package. 
 
 [![pub package](https://img.shields.io/pub/v/flutter_ion.svg)](https://pub.dartlang.org/packages/flutter_ion) 
 
